@@ -73,7 +73,7 @@ in how I design.
 | <img src="https://skillicons.dev/icons?i=aws" width="28" alt="AWS" /> | AWS Certified Security – Specialty |
 | <img src="https://skillicons.dev/icons?i=azure" width="28" alt="Azure" /> | AZ-304: Microsoft Azure Architect Design |
 | <img src="https://skillicons.dev/icons?i=azure" width="28" alt="Azure" /> | AZ-104: Microsoft Azure Administrator |
-| <img src="https://img.shields.io/badge/-607078?style=flat-square&logo=vmware&logoColor=white" height="28" alt="VMware" /> | VMware Certified Professional – Data Center Virtualization |
+| <img src="https://cdn.simpleicons.org/vmware/607078" width="28" alt="VMware" /> | VMware Certified Professional – Data Center Virtualization |
 
 ## Toolbox
 
