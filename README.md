@@ -15,10 +15,10 @@
 ---
 
 I design identity and cloud infrastructure that large organizations can actually operate.
-Today that means **Identity Data Fabric** solutions for public-sector clients. Before that
-I led Azure engineering for a federal health agency, migrated a university's 70,000-user
-identity platform, and spent a decade on the hardware side: data centers, field
-engineering and board-level repair. I learned the stack from the bottom up, and it shows
+Today that means **Identity Data Fabric** solutions for public-sector clients, alongside
+Azure engineering for a federal health agency that I've supported since 2020. Along the
+way I migrated a university's 70,000-user identity platform, and before cloud I spent a
+decade on the hardware side: data centers, field engineering and board-level repair. I learned the stack from the bottom up, and it shows
 in how I design.
 
 <table align="center">
@@ -35,7 +35,8 @@ in how I design.
 **Solutions Architect** · Alcor Technical Solutions · *current*
 - Solutions architect for Identity Data Fabric, primarily serving the public sector.
 
-**Lead Azure Engineer** · Centers for Medicare & Medicaid Services, via SPR · *2020 –*
+**Lead Azure Engineer** · Centers for Medicare & Medicaid Services (contract; via SPR until 2023) · *2020 – present*
+- Now on Azure Commercial and an Azure Virtual Desktop (AVD) VDI project.
 - Architected, engineered and supported Azure infrastructure for 30+ application development teams, and led the team of engineers and developers doing it.
 - Architected and deployed an Enterprise-Scale landing-zone framework.
 - Automated team onboarding end to end with Terraform and Jira.
@@ -43,7 +44,7 @@ in how I design.
 - Designed DNS infrastructure that fit every team's requirements while cutting management overhead and support cost.
 - Managed identity synchronization across Active Directory, AWS and Azure AD.
 
-**Consultant** · SPR · *2019 –*
+**Consultant** · SPR · *2019 – 2023*
 - **Herzing University:** migrated Federated Identity Manager to Microsoft Identity Manager for 70,000+ users, porting legacy management agents and redesigning attribute flows for a large performance gain.
 - **Gilson Inc.:** security assessment of an Azure IoT environment; prioritized findings and remediations.
 - **SC Johnson:** C# Azure Function on Microsoft Graph webhooks to wire Azure AD groups into SharePoint; PowerShell automation for provisioning and sensitivity labels.
