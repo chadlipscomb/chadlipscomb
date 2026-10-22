@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Chad%20Lipscomb&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Solutions%20Architect%20%C2%B7%20Identity%20%26%20Cloud%20Infrastructure&descSize=18&descAlignY=58" alt="Chad Lipscomb, Solutions Architect" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Chad%20Lipscomb&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Solutions%20Architect%20%C2%B7%20Identity%20and%20Cloud%20Infrastructure&descSize=18&descAlignY=58" alt="Chad Lipscomb, Solutions Architect" width="100%" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ in how I design.
 | <img src="https://skillicons.dev/icons?i=aws" width="28" alt="AWS" /> | AWS Certified Security – Specialty |
 | <img src="https://skillicons.dev/icons?i=azure" width="28" alt="Azure" /> | AZ-304: Microsoft Azure Architect Design |
 | <img src="https://skillicons.dev/icons?i=azure" width="28" alt="Azure" /> | AZ-104: Microsoft Azure Administrator |
-| <img src="https://cdn.simpleicons.org/vmware/607078" width="28" alt="VMware" /> | VMware Certified Professional – Data Center Virtualization |
+| <img src="https://cdn.simpleicons.org/vmware/607078" width="40" alt="VMware" /> | VMware Certified Professional – Data Center Virtualization |
 
 ## Toolbox
 
