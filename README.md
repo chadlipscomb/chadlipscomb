@@ -99,6 +99,29 @@ in how I design.
 | **Self-hosted infrastructure** | About 20 services on a Proxmox cluster across segmented VLANs, published through TLS and Cloudflare Tunnel: a hardened password manager, an NVR with object detection, a docs site and more. |
 | **Home automation** | Home Assistant, Zigbee and ESPHome across the house, with control loops, presence detection and notification systems I wrote myself. |
 
+## Motorsport
+
+Autocrossing since I was 15: SCCA Solo and club events in South Carolina, Colorado,
+Wisconsin, Illinois and California, plus a decade of competitive sim racing. The same habits carry
+over to architecture work: read the data, find the limit and find the time.
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>110+</h2>autocross events<br/>2006 – 2022</td>
+    <td align="center" width="25%"><h2>28</h2>class wins<br/>(46 podiums)</td>
+    <td align="center" width="25%"><h2>2</h2>overall PAX wins<br/>in fields up to 108</td>
+    <td align="center" width="25%"><h2>24</h2>iRacing race wins<br/>(48 podiums)</td>
+  </tr>
+</table>
+
+- **Overall PAX (index) wins:** 1st of 108 drivers at the 2015 SCCA RMSolo Championship Series, and 1st of 84 at the 2015 RMSolo Winter Series. Also 2nd of 133 (2014) and 2nd of 130 (2007).
+- **2014 SCCA National Match Tour, Rocky Mountain:** 2nd in B-Stock, co-driving a Corvette with four-time national champion Lane Borg.
+- **20+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas and RX-8s, a Nissan GT-R and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
+- **First drive in an F125 shifter kart:** by my fifth run I'd beaten the owner's time in his own kart.
+- **Instructor:** Tire Rack Street Survival car-control instructor (2017, 2018), teaching teen drivers vehicle control. I also instructed at a BMW arrive-and-drive charity event and spent years co-driving and coaching in the RMSolo series.
+- **Sim racing:** iRacing since 2013, with 200+ logged races, 24 wins, 48 podiums and 49 time-trial wins across GT3, GTE and GTP cars, including the IMSA iRacing Series.
+- **Garage:** a 2001 Honda S2000 on Moton two-way shocks, built for street driving and autocross.
+
 ## Off the clock
 
 <table>
