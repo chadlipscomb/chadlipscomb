@@ -114,6 +114,7 @@ over to architecture work: read the data, find the limit and find the time.
   </tr>
 </table>
 
+- **2021 iRacing LMP2 championship:** won the season in the Ricmotech LMP2 series (Dallara P217), with race wins from pole at Suzuka, the Hungaroring and Spa.
 - **Overall PAX (index) results** include 1st of 108 drivers at the 2015 SCCA RMSolo Championship Series, 1st of 84 at the 2015 RMSolo Winter Series, 2nd of 133 (2014) and 2nd of 130 (2007).
 - **2014 SCCA National Match Tour, Rocky Mountain:** 2nd in B-Stock, co-driving a Corvette with four-time national champion Lane Borg.
 - **20+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas and RX-8s, a Nissan GT-R and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
