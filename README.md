@@ -89,18 +89,23 @@ in how I design.
   <img src="https://skillicons.dev/icons?i=azure,aws,terraform,powershell,cs,bash,linux,docker,py,githubactions,git&perline=11" alt="Azure, AWS, Terraform, PowerShell, C#, Bash, Linux, Docker, Python, GitHub Actions, Git" />
 </p>
 
+## Beyond the day job
+
+| | |
+| --- | --- |
+| **Product design & fabrication** | Idea to finished object: parametric Fusion 360 parts (camera-rig plates and lens adapters, mounts, docks, a working key), modded and tuned 3D printers, and a mains-wired, PID-controlled filament dryer. |
+| **Embedded & IoT firmware** | Custom ESPHome components for ESP32 hardware, including a battery-powered ESP32-S3 camera with on-device person detection, wake word, a touch UI and a realtime voice-AI mode. |
+| **AI agent integration** | Connecting LLM agents to real systems: Claude Code managing Home Assistant through its API, agents controlling Alexa and Zigbee through MCP, and a knowledge base built for agents to work in. |
+| **Self-hosted infrastructure** | About 20 services on a Proxmox cluster across segmented VLANs, published through TLS and Cloudflare Tunnel: a hardened password manager, an NVR with object detection, a docs site and more. |
+| **Home automation** | Home Assistant, Zigbee and ESPHome across the house, with control loops, presence detection and notification systems I wrote myself. |
+
 ## Off the clock
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**I run a homelab** so I can test the ideas I design for work on my own
-infrastructure.
-
-- Proxmox cluster running my self-hosted services
-- Home Assistant, Zigbee and custom ESPHome firmware around the house
-- Small tools I publish when they're useful to others
+Most of the above lives in my homelab, where ideas get tested before they ever reach a client.
 
 </td>
 <td valign="top" width="50%">
