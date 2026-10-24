@@ -107,20 +107,21 @@ over to architecture work: read the data, find the limit and find the time.
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h2>110+</h2>autocross events<br/>2006 – 2022</td>
-    <td align="center" width="25%"><h2>300+</h2>drivers<br/>instructed</td>
-    <td align="center" width="25%"><h2>24</h2>class wins<br/>(41 podiums)</td>
+    <td align="center" width="25%"><h2>135+</h2>autocross events<br/>2006 – 2022</td>
+    <td align="center" width="25%"><h2>400+</h2>drivers<br/>instructed</td>
+    <td align="center" width="25%"><h2>28</h2>class wins<br/>(56 podiums)</td>
     <td align="center" width="25%"><h2>24</h2>iRacing race wins<br/>(48 podiums)</td>
   </tr>
 </table>
 
 - **2021 iRacing LMP2 championship:** won 2021 Season 4 of the Ricmotech LMP2 series (Dallara P217), with race wins from pole at Suzuka, the Hungaroring and Spa.
-- **Overall PAX (index) results** include 1st of 108 drivers at the 2015 SCCA RMSolo Championship Series, 1st of 84 at the 2015 RMSolo Winter Series, 2nd of 133 (2014) and 2nd of 130 (2007).
-- **2014 SCCA National Match Tour, Rocky Mountain:** 2nd in B-Stock, co-driving a Corvette with four-time national champion Lane Borg.
-- **20+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas and RX-8s, a Nissan GT-R and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
+- **2014 RM Solo class champion:** won the Street Touring Roadster (STR) season title in the SCCA RM Solo Championship Series, 1st of 21.
+- **Overall PAX (index) results** include 1st of 108 drivers (2015 RM Solo Championship Series), 1st of 84 (2015 RM Solo Winter Series), 1st of 68 (2018 RM Solo Winter Series), 2nd of 133 (2014) and 2nd of 130 (2007).
+- **National events:** 2017 Tire Rack SCCA Solo National Championships (D Street). Trophied 3rd at the 2015 Colorado Championship Tour (C Street) and the 2010 Texas National Tour (B Street). 2nd in B Street at the 2014 Rocky Mountain Match Tour, co-driving a Corvette with four-time national champion Lane Borg.
+- **40+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas, MR2s, M3s and RX-8s, a Nissan GT-R, a Formula Mazda and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
 - **First drive in an F125 shifter kart:** by my fifth run I'd beaten the owner's time in his own kart.
-- **Instructor and coach:** 300+ drivers instructed at autocross events, usually 3–10 per event, plus years of co-driving and coaching owners in their own cars in the RMSolo series.
-- **Volunteer:** car-control instructor for new teen drivers at Tire Rack Street Survival (2017, 2018), and an instructor at a BMW charity event for the Red Cross.
+- **Instructor and coach:** 400+ drivers instructed at autocross events, usually 3–10 per event, plus years of co-driving and coaching owners in their own cars in the RMSolo series.
+- **Volunteer:** car-control instructor for new teen drivers at Tire Rack Street Survival (2017, 2018), instructor at the SCCA Continental Divide Region's Speed Train autocross school (2014), and an instructor at a BMW charity event for the Red Cross.
 - **Sim racing:** iRacing since 2013, with 200+ logged races, 24 wins, 48 podiums and 49 time-trial wins across GT3, GTE and GTP cars, including the IMSA iRacing Series.
 
 ## Off the clock
