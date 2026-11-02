@@ -82,11 +82,15 @@ in how I design.
 | --- | --- |
 | **Cloud** | Azure (landing zones, Azure AD / Entra ID, Functions) · AWS |
 | **Identity** | Identity data fabric · Microsoft Identity Manager · AD sync across clouds |
-| **Automation** | Terraform · PowerShell · C# · Bash · GitHub Actions |
+| **Automation** | PowerShell · Terraform · C# · Bash · GitHub Actions |
 | **Infrastructure** | VMware vSphere · SAN · Windows domain · networking · Proxmox |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,powershell,cs,bash,linux,docker,py,githubactions,git&perline=11" alt="Azure, AWS, Terraform, PowerShell, C#, Bash, Linux, Docker, Python, GitHub Actions, Git" />
+  <img src="https://skillicons.dev/icons?i=powershell,terraform,azure,aws,cs,bash,linux,docker,py,githubactions,git&perline=11" alt="PowerShell, Terraform, Azure, AWS, C#, Bash, Linux, Docker, Python, GitHub Actions, Git" />
+</p>
+
+<p align="center">
+  <img src="languages.svg" alt="Most-used languages: PowerShell and Terraform day to day, then the measured breakdown of my public repositories" />
 </p>
 
 ## Beyond the day job
@@ -98,31 +102,6 @@ in how I design.
 | **AI agent integration** | Connecting LLM agents to real systems: Claude Code managing Home Assistant through its API, agents controlling Alexa and Zigbee through MCP, and a knowledge base built for agents to work in. |
 | **Self-hosted infrastructure** | About 20 services on a Proxmox cluster across segmented VLANs, published through TLS and Cloudflare Tunnel: a hardened password manager, an NVR with object detection, a docs site and more. |
 | **Home automation** | Home Assistant, Zigbee and ESPHome across the house, with control loops, presence detection and notification systems I wrote myself. |
-
-## Motorsport
-
-Autocrossing since I was 15: SCCA Solo and club events in South Carolina, Colorado,
-Wisconsin, Illinois and California, plus a decade of competitive sim racing. The same habits carry
-over to architecture work: read the data, find the limit and find the time.
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h2>135+</h2>autocross events<br/>2006 – 2022</td>
-    <td align="center" width="25%"><h2>400+</h2>drivers<br/>instructed</td>
-    <td align="center" width="25%"><h2>28</h2>class wins<br/>(56 podiums)</td>
-    <td align="center" width="25%"><h2>24</h2>iRacing race wins<br/>(48 podiums)</td>
-  </tr>
-</table>
-
-- **2021 iRacing LMP2 championship:** won 2021 Season 4 of the Ricmotech LMP2 series (Dallara P217), with race wins from pole at Suzuka, the Hungaroring and Spa.
-- **2014 RM Solo class champion:** won the Street Touring Roadster (STR) season title in the SCCA RM Solo Championship Series, 1st of 21.
-- **Overall PAX (index) results** include 1st of 108 drivers (2015 RM Solo Championship Series), 1st of 84 (2015 RM Solo Winter Series), 1st of 68 (2018 RM Solo Winter Series), 2nd of 133 (2014) and 2nd of 130 (2007).
-- **National events:** 2017 Tire Rack SCCA Solo National Championships (D Street). Class win in Formula Mazda at the 2016 Tire Rack Colorado Championship Tour. Trophied 3rd at the 2015 Colorado Championship Tour (C Street) and the 2010 Texas National Tour (B Street). 2nd in B Street at the 2014 Rocky Mountain Match Tour, co-driving a Corvette with four-time national champion Lane Borg.
-- **40+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas, MR2s, M3s and RX-8s, a Nissan GT-R, a Formula Mazda and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
-- **First drive in an F125 shifter kart:** by my fifth run I'd beaten the owner's time in his own kart.
-- **Instructor and coach:** 400+ drivers instructed at autocross events, usually 3–10 per event, plus years of co-driving and coaching owners in their own cars in the RMSolo series.
-- **Volunteer:** car-control instructor for new teen drivers at Tire Rack Street Survival (2017, 2018), instructor at the SCCA Continental Divide Region's Speed Train autocross school (2014), and an instructor at a BMW charity event for the Red Cross.
-- **Sim racing:** iRacing since 2013, with 200+ logged races, 24 wins, 48 podiums and 49 time-trial wins across GT3, GTE and GTP cars, including the IMSA iRacing Series.
 
 ## Off the clock
 
@@ -146,9 +125,44 @@ Most of the above lives in my homelab, where ideas get tested before they ever r
 </tr>
 </table>
 
-<p align="center">
-  <img src="metrics.languages.svg" alt="Most-used languages across my public repositories" />
-</p>
+## Motorsport
+
+Autocrossing since I was 15, in South Carolina, Colorado, Wisconsin, Illinois and California,
+and sim racing since 2013. The same habits carry over to architecture work: read the data,
+find the limit and find the time.
+
+### On track
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>135+</h2>autocross events<br/>2006 – 2022</td>
+    <td align="center" width="25%"><h2>28</h2>class wins<br/>(56 podiums)</td>
+    <td align="center" width="25%"><h2>400+</h2>drivers<br/>instructed</td>
+    <td align="center" width="25%"><h2>40+</h2>cars driven<br/>in competition</td>
+  </tr>
+</table>
+
+- **2014 RM Solo class champion:** won the Street Touring Roadster (STR) season title in the SCCA RM Solo Championship Series, 1st of 21.
+- **Overall PAX (index) results** include 1st of 108 drivers (2015 RM Solo Championship Series), 1st of 84 (2015 RM Solo Winter Series), 1st of 68 (2018 RM Solo Winter Series), 2nd of 133 (2014) and 2nd of 130 (2007).
+- **National events:** 2017 Tire Rack SCCA Solo National Championships (D Street). Class win in Formula Mazda at the 2016 Tire Rack Colorado Championship Tour. Trophied 3rd at the 2015 Colorado Championship Tour (C Street) and the 2010 Texas National Tour (B Street). 2nd in B Street at the 2014 Rocky Mountain Match Tour, co-driving a Corvette with four-time national champion Lane Borg.
+- **Nürburgring Nordschleife (2013):** laps of the Nordschleife in a Suzuki Swift, a MINI Cooper S and a Toyota Supra.
+- **40+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas, MR2s, M3s and RX-8s, a Nissan GT-R, a Formula Mazda and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
+- **First drive in an F125 shifter kart:** by my fifth run I'd beaten the owner's time in his own kart.
+- **Instructor and coach:** 400+ drivers instructed at autocross events, usually 3–10 per event, plus years of co-driving and coaching owners in their own cars in the RMSolo series.
+- **Volunteer:** car-control instructor for new teen drivers at Tire Rack Street Survival (2017, 2018), instructor at the SCCA Continental Divide Region's Speed Train autocross school (2014), and an instructor at a BMW charity event for the Red Cross.
+
+### Sim racing
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><h2>150+</h2>iRacing races<br/>since 2013</td>
+    <td align="center" width="33%"><h2>24</h2>race wins<br/>(48 podiums)</td>
+    <td align="center" width="33%"><h2>25</h2>cars<br/>raced</td>
+  </tr>
+</table>
+
+- **2021 iRacing LMP2 championship:** won 2021 Season 4 of the Ricmotech LMP2 series (Dallara P217), with race wins from pole at Suzuka, the Hungaroring and Spa.
+- **Across the field:** GT3, GTE and GTP cars, including the IMSA iRacing Series, plus open-wheel and spec series from the Skip Barber to the Formula Renault 3.5.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" width="100%" />
