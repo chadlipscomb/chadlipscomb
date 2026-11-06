@@ -155,9 +155,8 @@ find the limit and find the time.
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><h2>150+</h2>iRacing races<br/>since 2013</td>
-    <td align="center" width="33%"><h2>24</h2>race wins<br/>(48 podiums)</td>
-    <td align="center" width="33%"><h2>25</h2>cars<br/>raced</td>
+    <td align="center" width="50%"><h2>24</h2>iRacing race wins<br/>(48 podiums)</td>
+    <td align="center" width="50%"><h2>25</h2>cars<br/>raced</td>
   </tr>
 </table>
 
