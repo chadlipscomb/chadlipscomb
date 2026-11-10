@@ -32,11 +32,11 @@ in how I design.
 
 ## Experience
 
-**Solutions Architect** · Alcor Technical Solutions · *current*
+**Identity Data Fabric Solutions Architect** · Alcor Technical Solutions · *current*
 - Solutions architect for Identity Data Fabric, primarily serving the public sector.
-
-**Lead Azure Engineer** · Centers for Medicare & Medicaid Services (contract; via SPR until 2023) · *2020 – present*
 - Now on Azure Commercial and an Azure Virtual Desktop (AVD) VDI project.
+
+**Azure Government Lead Engineer** · Centers for Medicare & Medicaid Services (contract; via SPR until 2023) · *2020 – 2023*
 - Architected, engineered and supported Azure infrastructure for 30+ application development teams, and led the team of engineers and developers doing it.
 - Architected and deployed an Enterprise-Scale landing-zone framework.
 - Automated team onboarding end to end with Terraform and Jira.
@@ -44,7 +44,7 @@ in how I design.
 - Designed DNS infrastructure that fit every team's requirements while cutting management overhead and support cost.
 - Managed identity synchronization across Active Directory, AWS and Azure AD.
 
-**Consultant** · SPR · *2019 – 2023*
+**Consultant** · SPR · *2019 – 2021*
 - **Herzing University:** migrated Federated Identity Manager to Microsoft Identity Manager for 70,000+ users, porting legacy management agents and redesigning attribute flows for a large performance gain.
 - **Gilson Inc.:** security assessment of an Azure IoT environment; prioritized findings and remediations.
 - **SC Johnson:** C# Azure Function on Microsoft Graph webhooks to wire Azure AD groups into SharePoint; PowerShell automation for provisioning and sensitivity labels.
