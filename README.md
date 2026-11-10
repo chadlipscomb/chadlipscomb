@@ -142,13 +142,12 @@ find the limit and find the time.
   </tr>
 </table>
 
-- **2014 RM Solo class champion:** won the Street Touring Roadster (STR) season title in the SCCA RM Solo Championship Series, 1st of 21.
-- **Overall PAX (index) results** include 1st of 108 drivers (2015 RM Solo Championship Series), 1st of 84 (2015 RM Solo Winter Series), 1st of 68 (2018 RM Solo Winter Series), 2nd of 133 (2014) and 2nd of 130 (2007).
-- **National events:** 2017 Tire Rack SCCA Solo National Championships (D Street). Class win in Formula Mazda at the 2016 Tire Rack Colorado Championship Tour. Trophied 3rd at the 2015 Colorado Championship Tour (C Street) and the 2010 Texas National Tour (B Street). 2nd in B Street at the 2014 Rocky Mountain Match Tour, co-driving a Corvette with four-time national champion Lane Borg.
-- **Nürburgring Nordschleife (2013):** laps of the Nordschleife in a Suzuki Swift, a MINI Cooper S and a Toyota Supra.
-- **40+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas, MR2s, M3s and RX-8s, a Nissan GT-R, a Formula Mazda and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
-- **First drive in an F125 shifter kart:** by my fifth run I'd beaten the owner's time in his own kart.
+
+- **National events:** 2017 Tire Rack SCCA Solo National Championships (D Street). Class win in Formula 500 at the 2016 Tire Rack Colorado Championship Tour. Trophied 3rd at the 2015 Colorado Championship Tour (C Street) and the 2010 Texas National Tour (B Street). 2nd in B Street at the 2014 Rocky Mountain Match Tour, co-driving a Corvette with four-time national champion Lane Borg.
+- **Nürburgring Nordschleife (2013):** ~20 laps of the Nordschleife in a Suzuki Swift (fully prepped racecar), MINI Cooper S, and a Mk4 Toyota Supra.
+- **40+ different cars in competition, with class wins in more than ten of them:** S2000s, Miatas, BRZ/FRS/GT86s, MR2s, M3s and RX-8s, a Nissan GT-R, a Formula 500, and a 1984 Celica. Many were owners' cars that I co-drove while coaching them.
 - **Instructor and coach:** 400+ drivers instructed at autocross events, usually 3–10 per event, plus years of co-driving and coaching owners in their own cars in the RMSolo series.
+- **Supercar Experience Instructor:** Instructed amateur arrive-and-drive events for Ferrari F430s, Lamborghini Murcielago, and Lamborghini Gallardo. 
 - **Volunteer:** car-control instructor for new teen drivers at Tire Rack Street Survival (2017, 2018), instructor at the SCCA Continental Divide Region's Speed Train autocross school (2014), and an instructor at a BMW charity event for the Red Cross.
 
 ### Sim racing
@@ -160,7 +159,7 @@ find the limit and find the time.
   </tr>
 </table>
 
-- **2021 iRacing LMP2 championship:** won 2021 Season 4 of the Ricmotech LMP2 series (Dallara P217), with race wins from pole at Suzuka, the Hungaroring and Spa.
+- **2021 iRacing LMP2 Champion:** won 2021 Season 4 of the Ricmotech LMP2 series (Dallara P217), with race wins from pole at Suzuka, the Hungaroring and Spa.
 - **Across the field:** GT3, GTE and GTP cars, including the IMSA iRacing Series, plus open-wheel and spec series from the Skip Barber to the Formula Renault 3.5.
 
 <p align="center">
