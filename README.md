@@ -97,11 +97,10 @@ in how I design.
 
 | | |
 | --- | --- |
-| **Product design & fabrication** | Idea to finished object: parametric Fusion 360 parts (camera-rig plates and lens adapters, mounts, docks, a working key), modded and tuned 3D printers, and a mains-wired, PID-controlled filament dryer. |
 | **Embedded & IoT firmware** | Custom ESPHome components for ESP32 hardware, including a battery-powered ESP32-S3 camera with on-device person detection, wake word, a touch UI and a realtime voice-AI mode. |
-| **AI agent integration** | Connecting LLM agents to real systems: Claude Code managing Home Assistant through its API, agents controlling Alexa and Zigbee through MCP, and a knowledge base built for agents to work in. |
 | **Self-hosted infrastructure** | About 20 services on a Proxmox cluster across segmented VLANs, published through TLS and Cloudflare Tunnel: a hardened password manager, an NVR with object detection, a docs site and more. |
-| **Home automation** | Home Assistant, Zigbee and ESPHome across the house, with control loops, presence detection and notification systems I wrote myself. |
+| **Product design & fabrication** | Brought ideas to life with Parametric CAD. Mini server racks, light fixtures, camera rigs, shelving, and even food-safe taco stands.  |
+| **Home automation** | Home Assistant, Zigbee, and ESPHome provide secondary smart controls to most appliances in my home (lots of retrofits!). Stuck to "manual control first" philosophy.   |
 
 ## Off the clock
 
