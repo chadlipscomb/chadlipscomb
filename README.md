@@ -116,6 +116,8 @@ Most of the above lives in my homelab, where ideas get tested before they ever r
 **Latest pushes**
 
 <!-- latest:start -->
+- [**CursorFocus**](https://github.com/chadlipscomb/CursorFocus): [App Store checklist, listing draft and privacy policy](https://github.com/chadlipscomb/CursorFocus/commit/8e5952bf55352de3cb9d160b63948a6b4a96fc2f) · Nov 7, 2026
+- [**SpeakerKeepAlive**](https://github.com/chadlipscomb/SpeakerKeepAlive): [Prepare for public release](https://github.com/chadlipscomb/SpeakerKeepAlive/commit/2473b3b3b9223cf396269404bea7cf013f4e454f) · Nov 15, 2026
 - [**ha-area-averages**](https://github.com/chadlipscomb/ha-area-averages): [Prepare for public release](https://github.com/chadlipscomb/ha-area-averages/commit/0f3c1947872a449f7dce4cef820c5eeadcd27388) · Oct 5, 2026
 - [**raycast-restart-process**](https://github.com/chadlipscomb/raycast-restart-process): [Restart Process Raycast extension](https://github.com/chadlipscomb/raycast-restart-process/commit/c76a11fd9a7993ab500495c20ca6774af4535e8d) · Sep 28, 2026
 <!-- latest:end -->
